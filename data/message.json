@@ -1,0 +1,26 @@
+[
+  {
+    "title" : "My first message",
+    "subject" : "Lorem Ipsum is simply dummy text of the printing and typesetting industry."
+  },
+  {
+    "title" : "My 2 message",
+    "subject" : "Lorem Ipsum is simply dummy text of the printing and typesetting industry."
+  },
+  {
+    "title" : "My 3 message",
+    "subject" : "Lorem Ipsum is simply dummy text of the printing and typesetting industry."
+  },
+  {
+    "title" : "My 4 message",
+    "subject" : "Lorem Ipsum is simply dummy text of the printing and typesetting industry."
+  },
+  {
+    "title" : "My 5 message",
+    "subject" : "Lorem Ipsum is simply dummy text of the printing and typesetting industry."
+  },
+  {
+    "title": "My 6 message",
+    "subject": "Lorem Ipsum is simply dummy text of the printing and typesetting industry."
+  }
+]
